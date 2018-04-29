@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+div {
+	border: 10px solid;
+}
+
+table {
+	border: 10px solid;
+}
+
+td {
+	border: 1px solid;
+}
+
+h3 {
+	font-size: 15px; font-weight: bold; color: #0082E9; padding:10px 0 10px 0px; margin:0 10px;
+}
